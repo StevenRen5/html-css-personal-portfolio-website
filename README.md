@@ -1,4 +1,4 @@
-This project is a fully responsive personal portfolio website built using HTML, CSS, and JavaScript. I created it by following the [Easy Tutorials YouTube Tutorial](https://www.youtube.com/watch?v=uTPO6fKtBvM), which helped me enhance my frontend development skills. This is my third web development project. 
+This project is a fully responsive personal portfolio website built using HTML, CSS, and JavaScript. I created it by following the [How To Web Dev](https://www.youtube.com/watch?v=uTPO6fKtBvM), which helped me enhance my frontend development skills. This is my third web development project. 
 
 ## Features
 
