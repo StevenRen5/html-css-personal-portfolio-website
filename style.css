@@ -399,6 +399,8 @@ section {
   border-radius: 3rem;
   gap: 2rem;
   padding: 5rem 2rem;
+  height: 550px;
+  width: 400px;
   overflow: hidden;
   cursor: pointer;
   box-shadow: 0 0 5px var(--main-color);
