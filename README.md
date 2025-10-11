@@ -16,7 +16,7 @@ This project is a fully responsive personal portfolio website built using HTML, 
 - Applied linear-gradient to create visually appealing background effects
 - Strengthened skills in building responsive layouts and interactive navigation using CSS properties like **display**, **position**, and **media queries**
 
-[View Website](https://stevenren5.github.io/html-css-personal-portfolio-website/)
+[View Website](https://html-css-course-youtube-clone.vercel.app/)
 
  
 
